@@ -1,0 +1,1 @@
+{"elemental_refs": {"Cr": -9.6346, "Fe": -8.47348, "Al": -3.7375, "O": -4.94316}, "limits_wrt_el_refs": {"Al2FeO4-Fe-Al2O3-AlCrFeO4": {"Al": -6.7416, "Fe": 0.0, "O": -0.5397, "Cr": -1.90788}}, "limits": {"Al2FeO4-Fe-Al2O3-AlCrFeO4": {"Al": -10.4791, "Fe": -8.47348, "O": -5.48286, "Cr": -11.54248}}}
