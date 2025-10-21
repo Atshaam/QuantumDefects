@@ -1,7 +1,9 @@
 # Machine Learning Enabled Discovery of Point Defect Qubits for Quantum Technologies
 
 **Authors:** Atshaam Ashraf, Dr Alex Ganose, Dr Katherine Izzani
+
 **Institution:** Imperial College London
+
 **Project Type:** Undergraduate Research Opportunities Programme (UROP)
 
 ---
