@@ -49,8 +49,7 @@ The project investigates:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/27430279-c1d0-41ac-9cc0-56ec18407c01" alt="Defect formation energy plot" width="353" height="736">
 </p>
-
-
+Numbered steps in the above image follow the numbering of notebooks in notebooks/main_screening_notebooks
 ---
 
 ## Findings
