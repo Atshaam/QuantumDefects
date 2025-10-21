@@ -46,6 +46,9 @@ The project investigates:
    * Calculated using total energy differences between defective and pristine supercells.
    * GGA+U corrections applied for improved accuracy.
 
+<img width="1454" height="3418" alt="image" src="https://github.com/user-attachments/assets/fdba8056-32ca-4681-90eb-8f3576d650b9" />
+
+
 ---
 
 ## Findings
