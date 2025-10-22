@@ -60,7 +60,7 @@ The numbered steps in the figure correspond to the Jupyter notebooks in `noteboo
 
   * Close agreement between MLIP and DFT for primitive cell relaxations.
   * Larger discrepancies for defect supercells.
-* MLIPs trained only on bulk thermodynamic data were insufficient for predicting defect energetics.
+* MLIPs that were reliable for bulk thermodynamic data were insufficient for predicting defect energetics.
 
 ---
 
