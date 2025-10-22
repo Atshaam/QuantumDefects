@@ -1,6 +1,6 @@
 # Machine Learning Enabled Discovery of Point Defect Qubits for Quantum Technologies
 
-**Authors:** Atshaam Ashraf, Dr Alex Ganose, Dr Katherine Izzani
+**Authors:** Atshaam Ashraf, Dr Alex Ganose, Dr Katherine Inzani
 
 **Institution:** Imperial College London
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository accompanies the UROP project *Machine Learning Enabled Discovery of Point Defect Qubits for Quantum Technologies*, which explores the use of machine learning interatomic potentials (MLIPs) to accelerate the discovery of stable point defect qubits in transition-metal-doped insulating materials.
+This repository accompanies the UROP project Machine Learning Enabled Discovery of Point Defect Qubits for Quantum Technologies, which explores the use of machine learning interatomic potentials (MLIPs) to accelerate the discovery of stable point defect qubits in transition-metal-doped insulating materials.
 
 The work combines computational materials screening, density functional theory (DFT), and MLIPs to identify defect structures with desirable quantum properties such as long coherence times and optical addressability.
 
@@ -68,7 +68,7 @@ The numbered steps in the figure correspond to the Jupyter notebooks in `noteboo
 
 * Current MLIP datasets are inadequate for defect-level accuracy.
 * Future MLIP training should incorporate hybrid-functional and defect-specific data.
-* The approach demonstrates a scalable pathway for high-throughput quantum defect discovery.
+* The approach demonstrates a scalable pathway for high-throughput defect discovery.
 
 ---
 
@@ -85,8 +85,8 @@ The numbered steps in the figure correspond to the Jupyter notebooks in `noteboo
 
 ## Acknowledgments
 
-This research was conducted as part of the **Alchemy: AI for Chemistry** program, supported by the **Engineering and Physical Sciences Research Council (EPSRC)**.
-Special thanks to **Dr Alex Ganose** and **Dr Katherine Izzani** for their supervision and guidance.
+This research was conducted as part of the Alchemy Student Internship Programme 2025, supported by the Engineering and Physical Sciences Research Council (EPSRC).
+Special thanks to Dr Alex Ganose and Dr Katherine Inzani for their supervision and guidance.
 
 ---
 
